@@ -15,7 +15,8 @@ Ruby
 
 # Locaters in selenium
 
-By.className	finds elements based on the value of the “class” attribute	findElement(By.className(“someClassName”))
+**By.className
+**finds elements based on the value of the “class” attribute	findElement(By.className(“someClassName”))
 By.cssSelector	finds elements based on the driver’s underlying CSS Selector engine	findElement(By.cssSelector(“input#email”))
 By.id	locates elements by the value of their “id” attribute	findElement(By.id(“someId”))
  
